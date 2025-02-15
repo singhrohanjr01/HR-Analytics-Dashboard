@@ -30,7 +30,7 @@ The **HR Analytics Dashboard** is an interactive **Power BI** solution designed 
 
 <a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Years%20At%20Company.png">Years At Company</a>  
 ## 📂 Installation & Usage  
-1. Download the **.pbix** file from the repository.  
+1. Download the **.pbix** file from the repository.<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/2144d429113d8202c76571d55f19860ced7d2a50/HR%20ANALYTICS%20DASHBOARD.pbix">(PBIX FILE)</a>  
 2. Open it in **Power BI Desktop**.  
 3. Connect to your HR dataset (if required) and refresh the dashboard.  
 4. Explore the insights using interactive filters and reports.  
