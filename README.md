@@ -15,7 +15,7 @@ The **HR Analytics Dashboard** is an interactive **Power BI** solution designed 
 - **Excel/SQL** (if applicable) – For data extraction and transformation  
 
 ## 📸 Dashboard Preview  
-(Add screenshots of the dashboard here)  
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Full%20View.png">Full View</a> 
 
 ## 📂 Installation & Usage  
 1. Download the **.pbix** file from the repository.  
