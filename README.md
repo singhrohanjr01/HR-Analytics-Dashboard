@@ -13,10 +13,22 @@ The **HR Analytics Dashboard** is an interactive **Power BI** solution designed 
 - **DAX (Data Analysis Expressions)** – For complex calculations and KPIs  
 - **Data Modeling** – Structuring relationships between HR datasets  
 - **Excel/SQL** (if applicable) – For data extraction and transformation  
-
+## DataSet Used
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/HR_Analytics.csv">HR Analytics</a>
 ## 📸 Dashboard Preview  
-<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Full%20View.png">Full View</a> 
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Full%20View.png">Full View</a>
 
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Age%20Group.png">Age group</a> 
+
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Education%20Field.png">Education Field</a> 
+
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Gender%20Based.png">Gender Based</a> 
+
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Job%20Role%20And%20Satisfaction.png">Job Role And Satisfaction</a> 
+
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Stats%20Card.png">Stats Card</a>  
+
+<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/Years%20At%20Company.png">Years At Company</a>  
 ## 📂 Installation & Usage  
 1. Download the **.pbix** file from the repository.  
 2. Open it in **Power BI Desktop**.  
